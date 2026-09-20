@@ -1,4 +1,4 @@
-# Appendix G_PCSL Airsoft Division Modifications
+# Appendix G: PCSL Airsoft Division Modifications
 
 This appendix outlines the specific equipment, capacity, and divisional requirements for Airsoft platforms, modifying or superseding the standard firearm divisions detailed in [Appendix A_Pistol Divisions](Appendix%20A_Pistol%20Divisions.md) and [Appendix B_Rifle Divisions](Appendix%20B_Rifle%20Divisions.md).
 
