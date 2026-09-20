@@ -4,7 +4,7 @@ This appendix outlines the specific equipment, capacity, and divisional requirem
 
 ## G.1 Pistol Divisions Modifications
 
-The following rules apply to all Airsoft handguns and Pistol Caliber Carbines (PCC) used in PCSL matches, modifying their respective sections in [Appendix A_Pistol Divisions](Appendix%20A_Pistol%20Divisions.md). Criteria regarding Minimum Caliber, Maximum Caliber, Maximum Bullet Velocity, and Minimum Power Factor are completely removed and superseded by the kinetic energy limits defined in [Section F.4.1](<Appendix F_PCSL Airsoft Modifications.md#id-f.4.1-chronograph-and-kinetic-energy-limits>).
+The following rules apply to all Airsoft handguns and Pistol Caliber Carbines (PCC) used in PCSL matches, modifying their respective sections in [Appendix A_Pistol Divisions](Appendix%20A_Pistol%20Divisions.md). Criteria regarding Minimum Caliber, Maximum Caliber, Maximum Bullet Velocity, and Minimum Power Factor are completely removed and superseded by the kinetic energy limits defined in [Section F.4.1](<Appendix F_PCSL Airsoft Modifications.md#f.4.1-chronograph-and-kinetic-energy-limits>).
 
 ### G.1.1 Competition (COMP)
 
