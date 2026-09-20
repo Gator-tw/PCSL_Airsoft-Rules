@@ -1,4 +1,4 @@
-# Appendix F_PCSL Airsoft
+# Appendix F: PCSL Airsoft
 
 To accommodate the unique mechanical realities of Airsoft platforms, this appendix establishes specific annotations that modify or supersede the PCSL General Rulebook where applicable, aligning them with practical Airsoft officiating procedures.
 
